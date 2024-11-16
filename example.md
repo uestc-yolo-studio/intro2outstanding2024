@@ -25,8 +25,7 @@
 <img src = https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/202411161518849.png height = 50% width =50%/>
 <img src = https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/202411161511180.png height = 40% width = 40%/>
 
-
-
+----
 
 彭老板的传奇保研故事，可以先挖个坑
 如果大家愿意听可以之后再分享
@@ -208,8 +207,6 @@ core 中 core 了
 深造去向：中国科学院信工所
 
 </small>
-
-
 
 
 
